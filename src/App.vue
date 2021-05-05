@@ -180,7 +180,7 @@ export default {
           `https://discord.com/api/v9/channels/812467120239673374/messages?limit=100${before ? `&before=${before}` : ``}`,
           {
             headers: {
-              authorization: 'MzA1NDE2NTQxMjUwMjU2OTAw.YI17Vg.KDE25p964jfemEjB4fVcDwx4MtI'
+              // authorization: 'MzA1NDE2NTQxMjUwMjU2OTAw.YI17Vg.KDE25p964jfemEjB4fVcDwx4MtI'
             }
           }
         )
